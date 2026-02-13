@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush31120
 - Ayush Mishra
 - 👀 I’m interested in ...Artificial Intelligence 
-- 🌱 I’m currently learning ...Biomedical Signal Processing
+- 🌱 I’m currently working on Computer vision and Large Language Model
 - 📫 How to reach me ...I will Tell Soon
 
 <!---
